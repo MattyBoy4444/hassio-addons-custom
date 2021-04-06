@@ -1,0 +1,3 @@
+[submodule "addon-influxdb"]
+	path = addon-influxdb
+	url = https://github.com/MattyBoy4444/addon-influxdb
