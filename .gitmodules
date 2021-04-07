@@ -1,0 +1,3 @@
+[submodule "addon-influxdb-ssl2"]
+	path = addon-influxdb-ssl2
+	url = https://github.com/MattyBoy4444/addon-influxdb
